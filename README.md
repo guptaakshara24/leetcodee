@@ -26,6 +26,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/guptaakshara24/leetcodee/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [3794-reverse-string-prefix](https://github.com/guptaakshara24/leetcodee/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +36,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/guptaakshara24/leetcodee/tree/main/0020-valid-parentheses/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/guptaakshara24/leetcodee/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [3794-reverse-string-prefix](https://github.com/guptaakshara24/leetcodee/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
