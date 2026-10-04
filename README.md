@@ -54,5 +54,14 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/guptaakshara24/leetcodee/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3895-count-digit-appearances](https://github.com/guptaakshara24/leetcodee/tree/main/3895-count-digit-appearances/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/guptaakshara24/leetcodee/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/guptaakshara24/leetcodee/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 <!---LeetCode Topics End-->
