@@ -24,6 +24,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/guptaakshara24/leetcodee/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/guptaakshara24/leetcodee/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2942-find-words-containing-character](https://github.com/guptaakshara24/leetcodee/tree/main/2942-find-words-containing-character/) | Easy |
+| [3285-find-indices-of-stable-mountains](https://github.com/guptaakshara24/leetcodee/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3895-count-digit-appearances](https://github.com/guptaakshara24/leetcodee/tree/main/3895-count-digit-appearances/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
