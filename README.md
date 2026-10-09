@@ -63,6 +63,7 @@
 | ------- | ------- |
 | [2652-sum-multiples](https://github.com/guptaakshara24/leetcodee/tree/main/2652-sum-multiples/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/guptaakshara24/leetcodee/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+| [3099-harshad-number](https://github.com/guptaakshara24/leetcodee/tree/main/3099-harshad-number/) | Easy |
 | [3516-find-closest-person](https://github.com/guptaakshara24/leetcodee/tree/main/3516-find-closest-person/) | Easy |
 | [3895-count-digit-appearances](https://github.com/guptaakshara24/leetcodee/tree/main/3895-count-digit-appearances/) | Medium |
 ## Linked List
