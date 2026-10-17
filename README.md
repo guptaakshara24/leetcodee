@@ -39,6 +39,7 @@
 | ------- | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/guptaakshara24/leetcodee/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/guptaakshara24/leetcodee/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/guptaakshara24/leetcodee/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,6 +48,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/guptaakshara24/leetcodee/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/guptaakshara24/leetcodee/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/guptaakshara24/leetcodee/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/guptaakshara24/leetcodee/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2942-find-words-containing-character](https://github.com/guptaakshara24/leetcodee/tree/main/2942-find-words-containing-character/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/guptaakshara24/leetcodee/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Stack
@@ -55,6 +57,7 @@
 | [0020-valid-parentheses](https://github.com/guptaakshara24/leetcodee/tree/main/0020-valid-parentheses/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/guptaakshara24/leetcodee/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/guptaakshara24/leetcodee/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/guptaakshara24/leetcodee/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
