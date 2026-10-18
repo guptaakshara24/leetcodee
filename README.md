@@ -20,6 +20,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0622-design-circular-queue](https://github.com/guptaakshara24/leetcodee/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/guptaakshara24/leetcodee/tree/main/0641-design-circular-deque/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/guptaakshara24/leetcodee/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/guptaakshara24/leetcodee/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -78,6 +79,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0622-design-circular-queue](https://github.com/guptaakshara24/leetcodee/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/guptaakshara24/leetcodee/tree/main/0641-design-circular-deque/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/guptaakshara24/leetcodee/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Number Theory
@@ -95,9 +97,11 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0622-design-circular-queue](https://github.com/guptaakshara24/leetcodee/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/guptaakshara24/leetcodee/tree/main/0641-design-circular-deque/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0622-design-circular-queue](https://github.com/guptaakshara24/leetcodee/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/guptaakshara24/leetcodee/tree/main/0641-design-circular-deque/) | Medium |
 <!---LeetCode Topics End-->
