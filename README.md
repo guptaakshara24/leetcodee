@@ -22,6 +22,7 @@
 | ------- | ------- |
 | [0622-design-circular-queue](https://github.com/guptaakshara24/leetcodee/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/guptaakshara24/leetcodee/tree/main/0641-design-circular-deque/) | Medium |
+| [0704-binary-search](https://github.com/guptaakshara24/leetcodee/tree/main/0704-binary-search/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/guptaakshara24/leetcodee/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/guptaakshara24/leetcodee/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/guptaakshara24/leetcodee/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -112,4 +113,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/guptaakshara24/leetcodee/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/guptaakshara24/leetcodee/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
