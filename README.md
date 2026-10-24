@@ -20,6 +20,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/guptaakshara24/leetcodee/tree/main/0268-missing-number/) | Easy |
 | [0622-design-circular-queue](https://github.com/guptaakshara24/leetcodee/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/guptaakshara24/leetcodee/tree/main/0641-design-circular-deque/) | Medium |
 | [0704-binary-search](https://github.com/guptaakshara24/leetcodee/tree/main/0704-binary-search/) | Easy |
@@ -75,6 +76,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/guptaakshara24/leetcodee/tree/main/0268-missing-number/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/guptaakshara24/leetcodee/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/guptaakshara24/leetcodee/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/guptaakshara24/leetcodee/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -122,9 +124,19 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/guptaakshara24/leetcodee/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/guptaakshara24/leetcodee/tree/main/0704-binary-search/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/guptaakshara24/leetcodee/tree/main/0268-missing-number/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/guptaakshara24/leetcodee/tree/main/1486-xor-operation-in-an-array/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/guptaakshara24/leetcodee/tree/main/0268-missing-number/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/guptaakshara24/leetcodee/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
