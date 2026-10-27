@@ -26,6 +26,7 @@
 | [0704-binary-search](https://github.com/guptaakshara24/leetcodee/tree/main/0704-binary-search/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/guptaakshara24/leetcodee/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/guptaakshara24/leetcodee/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/guptaakshara24/leetcodee/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/guptaakshara24/leetcodee/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/guptaakshara24/leetcodee/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/guptaakshara24/leetcodee/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -139,4 +140,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/guptaakshara24/leetcodee/tree/main/0268-missing-number/) | Easy |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/guptaakshara24/leetcodee/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/guptaakshara24/leetcodee/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 <!---LeetCode Topics End-->
