@@ -145,4 +145,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/guptaakshara24/leetcodee/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/guptaakshara24/leetcodee/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
