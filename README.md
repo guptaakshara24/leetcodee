@@ -149,6 +149,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0595-big-countries](https://github.com/guptaakshara24/leetcodee/tree/main/0595-big-countries/) | Easy |
+| [0620-not-boring-movies](https://github.com/guptaakshara24/leetcodee/tree/main/0620-not-boring-movies/) | Easy |
 | [1683-invalid-tweets](https://github.com/guptaakshara24/leetcodee/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/guptaakshara24/leetcodee/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
