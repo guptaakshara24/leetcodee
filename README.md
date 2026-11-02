@@ -31,6 +31,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/guptaakshara24/leetcodee/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/guptaakshara24/leetcodee/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/guptaakshara24/leetcodee/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/guptaakshara24/leetcodee/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/guptaakshara24/leetcodee/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2942-find-words-containing-character](https://github.com/guptaakshara24/leetcodee/tree/main/2942-find-words-containing-character/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/guptaakshara24/leetcodee/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
@@ -156,4 +157,8 @@
 | [0620-not-boring-movies](https://github.com/guptaakshara24/leetcodee/tree/main/0620-not-boring-movies/) | Easy |
 | [1683-invalid-tweets](https://github.com/guptaakshara24/leetcodee/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/guptaakshara24/leetcodee/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2574-left-and-right-sum-differences](https://github.com/guptaakshara24/leetcodee/tree/main/2574-left-and-right-sum-differences/) | Easy |
 <!---LeetCode Topics End-->
