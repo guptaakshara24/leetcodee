@@ -22,6 +22,7 @@
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/guptaakshara24/leetcodee/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/guptaakshara24/leetcodee/tree/main/0268-missing-number/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/guptaakshara24/leetcodee/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/guptaakshara24/leetcodee/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0622-design-circular-queue](https://github.com/guptaakshara24/leetcodee/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/guptaakshara24/leetcodee/tree/main/0641-design-circular-deque/) | Medium |
@@ -85,6 +86,7 @@
 | [0189-rotate-array](https://github.com/guptaakshara24/leetcodee/tree/main/0189-rotate-array/) | Medium |
 | [0263-ugly-number](https://github.com/guptaakshara24/leetcodee/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/guptaakshara24/leetcodee/tree/main/0268-missing-number/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/guptaakshara24/leetcodee/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/guptaakshara24/leetcodee/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/guptaakshara24/leetcodee/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/guptaakshara24/leetcodee/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
