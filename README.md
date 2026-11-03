@@ -37,6 +37,7 @@
 | [3232-find-if-digit-game-can-be-won](https://github.com/guptaakshara24/leetcodee/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3285-find-indices-of-stable-mountains](https://github.com/guptaakshara24/leetcodee/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/guptaakshara24/leetcodee/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/guptaakshara24/leetcodee/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3895-count-digit-appearances](https://github.com/guptaakshara24/leetcodee/tree/main/3895-count-digit-appearances/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -92,6 +93,7 @@
 | [3232-find-if-digit-game-can-be-won](https://github.com/guptaakshara24/leetcodee/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/guptaakshara24/leetcodee/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3516-find-closest-person](https://github.com/guptaakshara24/leetcodee/tree/main/3516-find-closest-person/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/guptaakshara24/leetcodee/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3894-traffic-signal-color](https://github.com/guptaakshara24/leetcodee/tree/main/3894-traffic-signal-color/) | Easy |
 | [3895-count-digit-appearances](https://github.com/guptaakshara24/leetcodee/tree/main/3895-count-digit-appearances/) | Medium |
 ## Linked List
