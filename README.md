@@ -36,6 +36,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/guptaakshara24/leetcodee/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/guptaakshara24/leetcodee/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2942-find-words-containing-character](https://github.com/guptaakshara24/leetcodee/tree/main/2942-find-words-containing-character/) | Easy |
+| [3024-type-of-triangle](https://github.com/guptaakshara24/leetcodee/tree/main/3024-type-of-triangle/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/guptaakshara24/leetcodee/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3285-find-indices-of-stable-mountains](https://github.com/guptaakshara24/leetcodee/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/guptaakshara24/leetcodee/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -93,6 +94,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/guptaakshara24/leetcodee/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/guptaakshara24/leetcodee/tree/main/2652-sum-multiples/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/guptaakshara24/leetcodee/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+| [3024-type-of-triangle](https://github.com/guptaakshara24/leetcodee/tree/main/3024-type-of-triangle/) | Easy |
 | [3099-harshad-number](https://github.com/guptaakshara24/leetcodee/tree/main/3099-harshad-number/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/guptaakshara24/leetcodee/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/guptaakshara24/leetcodee/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -153,6 +155,7 @@
 | [0268-missing-number](https://github.com/guptaakshara24/leetcodee/tree/main/0268-missing-number/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/guptaakshara24/leetcodee/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/guptaakshara24/leetcodee/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
+| [3024-type-of-triangle](https://github.com/guptaakshara24/leetcodee/tree/main/3024-type-of-triangle/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,4 +171,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/guptaakshara24/leetcodee/tree/main/2574-left-and-right-sum-differences/) | Easy |
+## Polygons
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3024-type-of-triangle](https://github.com/guptaakshara24/leetcodee/tree/main/3024-type-of-triangle/) | Easy |
 <!---LeetCode Topics End-->
