@@ -91,6 +91,7 @@
 | [0189-rotate-array](https://github.com/guptaakshara24/leetcodee/tree/main/0189-rotate-array/) | Medium |
 | [0263-ugly-number](https://github.com/guptaakshara24/leetcodee/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/guptaakshara24/leetcodee/tree/main/0268-missing-number/) | Easy |
+| [0319-bulb-switcher](https://github.com/guptaakshara24/leetcodee/tree/main/0319-bulb-switcher/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/guptaakshara24/leetcodee/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/guptaakshara24/leetcodee/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/guptaakshara24/leetcodee/tree/main/1486-xor-operation-in-an-array/) | Easy |
@@ -181,4 +182,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3024-type-of-triangle](https://github.com/guptaakshara24/leetcodee/tree/main/3024-type-of-triangle/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0319-bulb-switcher](https://github.com/guptaakshara24/leetcodee/tree/main/0319-bulb-switcher/) | Medium |
 <!---LeetCode Topics End-->
