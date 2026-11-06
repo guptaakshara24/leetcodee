@@ -91,6 +91,7 @@
 | [0189-rotate-array](https://github.com/guptaakshara24/leetcodee/tree/main/0189-rotate-array/) | Medium |
 | [0263-ugly-number](https://github.com/guptaakshara24/leetcodee/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/guptaakshara24/leetcodee/tree/main/0268-missing-number/) | Easy |
+| [0292-nim-game](https://github.com/guptaakshara24/leetcodee/tree/main/0292-nim-game/) | Easy |
 | [0319-bulb-switcher](https://github.com/guptaakshara24/leetcodee/tree/main/0319-bulb-switcher/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/guptaakshara24/leetcodee/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/guptaakshara24/leetcodee/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
@@ -185,5 +186,22 @@
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/guptaakshara24/leetcodee/tree/main/0292-nim-game/) | Easy |
 | [0319-bulb-switcher](https://github.com/guptaakshara24/leetcodee/tree/main/0319-bulb-switcher/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/guptaakshara24/leetcodee/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/guptaakshara24/leetcodee/tree/main/0292-nim-game/) | Easy |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/guptaakshara24/leetcodee/tree/main/0292-nim-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/guptaakshara24/leetcodee/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
