@@ -95,6 +95,7 @@
 | [0319-bulb-switcher](https://github.com/guptaakshara24/leetcodee/tree/main/0319-bulb-switcher/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/guptaakshara24/leetcodee/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/guptaakshara24/leetcodee/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [1025-divisor-game](https://github.com/guptaakshara24/leetcodee/tree/main/1025-divisor-game/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/guptaakshara24/leetcodee/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/guptaakshara24/leetcodee/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/guptaakshara24/leetcodee/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -188,6 +189,7 @@
 | ------- | ------- |
 | [0292-nim-game](https://github.com/guptaakshara24/leetcodee/tree/main/0292-nim-game/) | Easy |
 | [0319-bulb-switcher](https://github.com/guptaakshara24/leetcodee/tree/main/0319-bulb-switcher/) | Medium |
+| [1025-divisor-game](https://github.com/guptaakshara24/leetcodee/tree/main/1025-divisor-game/) | Easy |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -196,6 +198,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/guptaakshara24/leetcodee/tree/main/0292-nim-game/) | Easy |
+| [1025-divisor-game](https://github.com/guptaakshara24/leetcodee/tree/main/1025-divisor-game/) | Easy |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -204,4 +207,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/guptaakshara24/leetcodee/tree/main/0292-nim-game/) | Easy |
+| [1025-divisor-game](https://github.com/guptaakshara24/leetcodee/tree/main/1025-divisor-game/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/guptaakshara24/leetcodee/tree/main/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->
