@@ -22,6 +22,7 @@
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/guptaakshara24/leetcodee/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/guptaakshara24/leetcodee/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/guptaakshara24/leetcodee/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/guptaakshara24/leetcodee/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/guptaakshara24/leetcodee/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0622-design-circular-queue](https://github.com/guptaakshara24/leetcodee/tree/main/0622-design-circular-queue/) | Medium |
@@ -48,6 +49,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/guptaakshara24/leetcodee/tree/main/0189-rotate-array/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/guptaakshara24/leetcodee/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/guptaakshara24/leetcodee/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/guptaakshara24/leetcodee/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/guptaakshara24/leetcodee/tree/main/3794-reverse-string-prefix/) | Easy |
@@ -146,12 +148,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/guptaakshara24/leetcodee/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/guptaakshara24/leetcodee/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/guptaakshara24/leetcodee/tree/main/0704-binary-search/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/guptaakshara24/leetcodee/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/guptaakshara24/leetcodee/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/guptaakshara24/leetcodee/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/guptaakshara24/leetcodee/tree/main/1486-xor-operation-in-an-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -212,4 +216,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/guptaakshara24/leetcodee/tree/main/1025-divisor-game/) | Easy |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/guptaakshara24/leetcodee/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/guptaakshara24/leetcodee/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
