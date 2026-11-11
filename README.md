@@ -20,6 +20,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/guptaakshara24/leetcodee/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/guptaakshara24/leetcodee/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/guptaakshara24/leetcodee/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/guptaakshara24/leetcodee/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -160,10 +161,12 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/guptaakshara24/leetcodee/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/guptaakshara24/leetcodee/tree/main/0268-missing-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/guptaakshara24/leetcodee/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/guptaakshara24/leetcodee/tree/main/0268-missing-number/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/guptaakshara24/leetcodee/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/guptaakshara24/leetcodee/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -224,4 +227,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/guptaakshara24/leetcodee/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/guptaakshara24/leetcodee/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/guptaakshara24/leetcodee/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/guptaakshara24/leetcodee/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
