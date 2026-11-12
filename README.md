@@ -155,6 +155,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/guptaakshara24/leetcodee/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/guptaakshara24/leetcodee/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/guptaakshara24/leetcodee/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/guptaakshara24/leetcodee/tree/main/1486-xor-operation-in-an-array/) | Easy |
@@ -231,6 +232,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/guptaakshara24/leetcodee/tree/main/0169-majority-element/) | Easy |
+| [0191-number-of-1-bits](https://github.com/guptaakshara24/leetcodee/tree/main/0191-number-of-1-bits/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
