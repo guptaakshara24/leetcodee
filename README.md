@@ -105,6 +105,7 @@
 | [1025-divisor-game](https://github.com/guptaakshara24/leetcodee/tree/main/1025-divisor-game/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/guptaakshara24/leetcodee/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/guptaakshara24/leetcodee/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [1952-three-divisors](https://github.com/guptaakshara24/leetcodee/tree/main/1952-three-divisors/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/guptaakshara24/leetcodee/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/guptaakshara24/leetcodee/tree/main/2652-sum-multiples/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/guptaakshara24/leetcodee/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
@@ -126,6 +127,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1952-three-divisors](https://github.com/guptaakshara24/leetcodee/tree/main/1952-three-divisors/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/guptaakshara24/leetcodee/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -134,6 +136,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1952-three-divisors](https://github.com/guptaakshara24/leetcodee/tree/main/1952-three-divisors/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/guptaakshara24/leetcodee/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -248,4 +251,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/guptaakshara24/leetcodee/tree/main/0169-majority-element/) | Easy |
+## Prime Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1952-three-divisors](https://github.com/guptaakshara24/leetcodee/tree/main/1952-three-divisors/) | Easy |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1952-three-divisors](https://github.com/guptaakshara24/leetcodee/tree/main/1952-three-divisors/) | Easy |
 <!---LeetCode Topics End-->
