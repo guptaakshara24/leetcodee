@@ -76,6 +76,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/guptaakshara24/leetcodee/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/guptaakshara24/leetcodee/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/guptaakshara24/leetcodee/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/guptaakshara24/leetcodee/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [2942-find-words-containing-character](https://github.com/guptaakshara24/leetcodee/tree/main/2942-find-words-containing-character/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/guptaakshara24/leetcodee/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3894-traffic-signal-color](https://github.com/guptaakshara24/leetcodee/tree/main/3894-traffic-signal-color/) | Easy |
