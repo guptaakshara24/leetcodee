@@ -52,6 +52,7 @@
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/guptaakshara24/leetcodee/tree/main/0189-rotate-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/guptaakshara24/leetcodee/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0392-is-subsequence](https://github.com/guptaakshara24/leetcodee/tree/main/0392-is-subsequence/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/guptaakshara24/leetcodee/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/guptaakshara24/leetcodee/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/guptaakshara24/leetcodee/tree/main/3794-reverse-string-prefix/) | Easy |
@@ -68,6 +69,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/guptaakshara24/leetcodee/tree/main/0020-valid-parentheses/) | Easy |
+| [0392-is-subsequence](https://github.com/guptaakshara24/leetcodee/tree/main/0392-is-subsequence/) | Easy |
 | [0709-to-lower-case](https://github.com/guptaakshara24/leetcodee/tree/main/0709-to-lower-case/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/guptaakshara24/leetcodee/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/guptaakshara24/leetcodee/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -230,6 +232,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0392-is-subsequence](https://github.com/guptaakshara24/leetcodee/tree/main/0392-is-subsequence/) | Easy |
 | [1025-divisor-game](https://github.com/guptaakshara24/leetcodee/tree/main/1025-divisor-game/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
