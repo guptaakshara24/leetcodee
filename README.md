@@ -28,6 +28,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/guptaakshara24/leetcodee/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0622-design-circular-queue](https://github.com/guptaakshara24/leetcodee/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/guptaakshara24/leetcodee/tree/main/0641-design-circular-deque/) | Medium |
+| [0682-baseball-game](https://github.com/guptaakshara24/leetcodee/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/guptaakshara24/leetcodee/tree/main/0704-binary-search/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/guptaakshara24/leetcodee/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/guptaakshara24/leetcodee/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -59,6 +60,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0682-baseball-game](https://github.com/guptaakshara24/leetcodee/tree/main/0682-baseball-game/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/guptaakshara24/leetcodee/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/guptaakshara24/leetcodee/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/guptaakshara24/leetcodee/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -86,6 +88,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/guptaakshara24/leetcodee/tree/main/0020-valid-parentheses/) | Easy |
+| [0682-baseball-game](https://github.com/guptaakshara24/leetcodee/tree/main/0682-baseball-game/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/guptaakshara24/leetcodee/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/guptaakshara24/leetcodee/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/guptaakshara24/leetcodee/tree/main/2390-removing-stars-from-a-string/) | Medium |
