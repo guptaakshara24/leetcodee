@@ -71,6 +71,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/guptaakshara24/leetcodee/tree/main/0020-valid-parentheses/) | Easy |
+| [0242-valid-anagram](https://github.com/guptaakshara24/leetcodee/tree/main/0242-valid-anagram/) | Easy |
 | [0392-is-subsequence](https://github.com/guptaakshara24/leetcodee/tree/main/0392-is-subsequence/) | Easy |
 | [0709-to-lower-case](https://github.com/guptaakshara24/leetcodee/tree/main/0709-to-lower-case/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/guptaakshara24/leetcodee/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -177,11 +178,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/guptaakshara24/leetcodee/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/guptaakshara24/leetcodee/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/guptaakshara24/leetcodee/tree/main/0268-missing-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/guptaakshara24/leetcodee/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/guptaakshara24/leetcodee/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/guptaakshara24/leetcodee/tree/main/0268-missing-number/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/guptaakshara24/leetcodee/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/guptaakshara24/leetcodee/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
