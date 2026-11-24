@@ -78,6 +78,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/guptaakshara24/leetcodee/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/guptaakshara24/leetcodee/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/guptaakshara24/leetcodee/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1704-determine-if-string-halves-are-alike](https://github.com/guptaakshara24/leetcodee/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/guptaakshara24/leetcodee/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/guptaakshara24/leetcodee/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/guptaakshara24/leetcodee/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
@@ -259,6 +260,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/guptaakshara24/leetcodee/tree/main/0169-majority-element/) | Easy |
+| [1704-determine-if-string-halves-are-alike](https://github.com/guptaakshara24/leetcodee/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
