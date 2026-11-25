@@ -40,6 +40,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/guptaakshara24/leetcodee/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/guptaakshara24/leetcodee/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/guptaakshara24/leetcodee/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/guptaakshara24/leetcodee/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2942-find-words-containing-character](https://github.com/guptaakshara24/leetcodee/tree/main/2942-find-words-containing-character/) | Easy |
 | [3024-type-of-triangle](https://github.com/guptaakshara24/leetcodee/tree/main/3024-type-of-triangle/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/guptaakshara24/leetcodee/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
@@ -83,6 +84,7 @@
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/guptaakshara24/leetcodee/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/guptaakshara24/leetcodee/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/guptaakshara24/leetcodee/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/guptaakshara24/leetcodee/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/guptaakshara24/leetcodee/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [2942-find-words-containing-character](https://github.com/guptaakshara24/leetcodee/tree/main/2942-find-words-containing-character/) | Easy |
 | [3340-check-balanced-string](https://github.com/guptaakshara24/leetcodee/tree/main/3340-check-balanced-string/) | Easy |
