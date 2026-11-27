@@ -68,6 +68,7 @@
 | [2243-calculate-digit-sum-of-a-string](https://github.com/guptaakshara24/leetcodee/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/guptaakshara24/leetcodee/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3360-stone-removal-game](https://github.com/guptaakshara24/leetcodee/tree/main/3360-stone-removal-game/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/guptaakshara24/leetcodee/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3894-traffic-signal-color](https://github.com/guptaakshara24/leetcodee/tree/main/3894-traffic-signal-color/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -89,6 +90,7 @@
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/guptaakshara24/leetcodee/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [2942-find-words-containing-character](https://github.com/guptaakshara24/leetcodee/tree/main/2942-find-words-containing-character/) | Easy |
 | [3340-check-balanced-string](https://github.com/guptaakshara24/leetcodee/tree/main/3340-check-balanced-string/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/guptaakshara24/leetcodee/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/guptaakshara24/leetcodee/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3894-traffic-signal-color](https://github.com/guptaakshara24/leetcodee/tree/main/3894-traffic-signal-color/) | Easy |
 ## Stack
