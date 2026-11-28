@@ -89,6 +89,7 @@
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/guptaakshara24/leetcodee/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/guptaakshara24/leetcodee/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [2942-find-words-containing-character](https://github.com/guptaakshara24/leetcodee/tree/main/2942-find-words-containing-character/) | Easy |
+| [3210-find-the-encrypted-string](https://github.com/guptaakshara24/leetcodee/tree/main/3210-find-the-encrypted-string/) | Easy |
 | [3340-check-balanced-string](https://github.com/guptaakshara24/leetcodee/tree/main/3340-check-balanced-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/guptaakshara24/leetcodee/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/guptaakshara24/leetcodee/tree/main/3794-reverse-string-prefix/) | Easy |
